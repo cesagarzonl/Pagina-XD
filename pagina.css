@@ -1,0 +1,177 @@
+#cuerpo {
+	float: left;
+	width: 100%;
+	height: 15%;
+	text-align:center;
+	{border-style: solid}
+}
+#menu {
+  float: left;
+  position: absolute;
+  top: 0em;
+  right: 0;
+  bottom: 0em;
+  left: 0;
+
+  font-size:14px;
+  font-family:'Open Sans';
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  width: 30%;
+  height: all;
+  background-color:  	#2F4F4F;
+  opacity: 0.95; 
+  color: #FFF5EE;
+  box-shadow: 15px 15px  10px 5; 
+  {border-style: solid}
+}
+#info {
+	
+	font-size:14px;
+  	font-family:Verdana;
+	float: right; 
+	font-weight: bold;
+	text-align: center;
+	width: 70%;
+	height: 100%;
+	color: black;
+	background-color: #FFF5EE;
+	{border-style: solid;}
+	}
+#bontonC, #bontonD{
+	font-size:14px;
+  	font-family:Verdana;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 1px 1px  2px 0; 
+	text-align: center;
+	margin-top: 2em;
+    margin-bottom: 2em;
+}
+img.avatar {
+	text-align: center;
+	width:150px;
+	height:150px;
+	background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    margin-top: 4em;
+    margin-bottom: 3em;
+}
+
+img{
+	align: left;
+	width:60px;
+	height:60px;
+	background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+h1{
+	font-size:20px;
+  	font-family:Verdana;
+  	color:black;
+  	opacity: 0.95;
+  }
+div a h1,div a p{
+	font-size:20px;
+  	font-family:Verdana;
+  	color:#FFF5EE;
+   opacity: 0.95;
+
+}
+
+div.p{
+	font-size:14px;
+  	font-family:Verdana;
+  	color:#4169E1;
+}
+p{
+	font-size:14px;
+  	font-family:Verdana;
+  	color:black;
+   	opacity: 0.95;
+}
+nav ul li a{
+	align: left;
+	font-size:14px;
+  	font-family:Verdana;
+	font-size:14px;
+  	font-family:Verdana;
+  	color:#FFF5EE;
+  	text-decoration:none; 
+}
+a{
+	align: left;
+	font-size:14px;
+  	font-family:Verdana;
+	color:black;
+   	opacity: 0.95;
+  	text-decoration:none; 
+}
+
+#h5{float: left;
+  position: absolute;
+  top: 0em;
+  right: 30%;
+  bottom: 0em;
+  left: 30%;
+  width:70%;
+
+}
+div h1{
+  margin-top: 5%;
+}
+#parrafo{
+	 width: 60%;
+	 float: center;
+	 position: absolute;
+}
+
+/*p {
+ color: red;
+ }
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Annotations start="0" num="1" total="1">
+  <Annotation about="www.facebook.com/cesargarzonlamprea/*" score="1" timestamp="0x000531f15bf84e03" href="CiV3d3cuZmFjZWJvb2suY29tL2Nlc2FyZ2Fyem9ubGFtcHJlYS8qEIOc4d-VvswC">
+    <Label name="_cse_mhkum1v1bl8" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/cesargarzonlamprea/" />
+  </Annotation>
+</Annotations>
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomSearchEngine id="mhkum1v1bl8" creator="012584391112063194925" language="es" encoding="UTF-8" enable_suggest="true">
+  <Title>Buscar</Title>
+  <Context>
+    <BackgroundLabels>
+      <Label name="_cse_mhkum1v1bl8" mode="FILTER" />
+      <Label name="_cse_exclude_mhkum1v1bl8" mode="ELIMINATE" />
+    </BackgroundLabels>
+  </Context>
+  <LookAndFeel nonprofit="false" element_layout="8" theme="7" custom_theme="true" text_font="Arial, sans-serif" url_length="full" element_branding="show" enable_cse_thumbnail="true" promotion_url_length="full" ads_layout="1">
+    <Logo />
+    <Colors url="#008000" background="#FFFFFF" border="#FFFFFF" title="#0000CC" text="#000000" visited="#0000CC" title_hover="#0000CC" title_active="#0000CC" />
+    <Promotions title_color="#0000CC" title_visited_color="#0000CC" url_color="#008000" background_color="#FFFFFF" border_color="#336699" snippet_color="#000000" title_hover_color="#0000CC" title_active_color="#0000CC" />
+    <SearchControls input_border_color="#D9D9D9" button_border_color="#666666" button_background_color="#CECECE" tab_border_color="#E9E9E9" tab_background_color="#E9E9E9" tab_selected_border_color="#FF9900" tab_selected_background_color="#FFFFFF" />
+    <Results border_color="#FFFFFF" border_hover_color="#FFFFFF" background_color="#FFFFFF" background_hover_color="#FFFFFF" ads_background_color="#FDF6E5" ads_border_color="#FDF6E5" />
+  </LookAndFeel>
+  <AdSense />
+  <EnterpriseAccount />
+  <ImageSearchSettings enable="true" />
+  <autocomplete_settings />
+  <sort_by_keys label="Relevance" key="" />
+  <sort_by_keys label="Date" key="date" />
+  <cse_advance_settings enable_speech="true" />
+</CustomSearchEngine>
+
+
+
+
+ /*
